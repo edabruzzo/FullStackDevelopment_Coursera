@@ -2,7 +2,7 @@
   "name": "sistemas",
   "version": "1.0.0",
   "description": "Directory for test and learn Node.js",
-  "main": "index.html",
+  "main": "index.js",
   "scripts": {
     "start": "npm run lite",	  
     "test": "echo \"Error: no test specified\" && exit 1",
