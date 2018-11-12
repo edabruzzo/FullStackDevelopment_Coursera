@@ -16,3 +16,9 @@ https://git-scm.com/book/en/v2
 https://docs.npmjs.com/getting-started/using-a-package.json
 
 https://www.atlassian.com/git/tutorials
+
+USANDO HEROKU PARA FAZER O DEPLOY
+https://dashboard.heroku.com/apps
+https://devcenter.heroku.com/artcles/getting-started-with-nodejs
+https://devcenter.heroku.com/articles/preparing-a-codebase-for-heroku-deployment
+
