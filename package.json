@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/edabruzzo/FullStackDevelopment_Coursera/issues"
   },
-  "homepage": "https://github.com/edabruzzo/FullStackDevelopment_Coursera#readme"
+  "homepage": "https://github.com/edabruzzo/FullStackDevelopment_Coursera#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
 }
