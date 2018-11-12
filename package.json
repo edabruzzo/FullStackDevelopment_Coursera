@@ -1,0 +1,19 @@
+{
+  "name": "sistemas",
+  "version": "1.0.0",
+  "description": "Directory for test and learn Node.js",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edabruzzo/FullStackDevelopment_Coursera.git"
+  },
+  "author": "Emmanuel D'Abruzzo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edabruzzo/FullStackDevelopment_Coursera/issues"
+  },
+  "homepage": "https://github.com/edabruzzo/FullStackDevelopment_Coursera#readme"
+}
