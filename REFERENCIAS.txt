@@ -12,3 +12,5 @@ https://en.wikipedia.org/wiki/Multitier_architecture
 http://www.tonymarston.net/php-mysql/3-tier-architecture.html
 
 https://git-scm.com/book/en/v2
+
+https://docs.npmjs.com/getting-started/using-a-package.json
