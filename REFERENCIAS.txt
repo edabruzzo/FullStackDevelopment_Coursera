@@ -21,4 +21,10 @@ USANDO HEROKU PARA FAZER O DEPLOY
 https://dashboard.heroku.com/apps
 https://devcenter.heroku.com/artcles/getting-started-with-nodejs
 https://devcenter.heroku.com/articles/preparing-a-codebase-for-heroku-deployment
+http://afternoon-reef-68062.herokuapp.com/
+https://dashboard.heroku.com/apps/afternoon-reef-68062/access
 
+
+VISUALCODE PARA DEBUG E EXECUÇÃO EM VÁRIAS LINGUAGENS
+https://code.visualstudio.com/docs/python/debugging
+https://code.visualstudio.com/docs/?dv=win
